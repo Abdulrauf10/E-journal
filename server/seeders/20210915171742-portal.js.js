@@ -7,7 +7,7 @@ module.exports = {
         title: "A User-Centric Platform PRINTEPS to Develop Integrated Intelligent Applications and Application to Robot Teahouse",
         author: "Kodai Nakamura",
         abstract: "We are developing PRactical INTEligent aPplicationS (PRINTEPS), which is a user-centric platform to develop integrated ...",
-        content: "https://reader.elsevier.com/reader/sd/pii/S1877050917316757?token=3A0F0A4456AE4D2975E6D76DC0C79A48EC3CB75155A56407994E0F5A0B4C727EBAF03A4C759C525C0EE7F897220F017D&originRegion=eu-west-1&originCreation=20210914101222",
+        content: "https://reader.elsevier.com/reader/sd/pii/S1877050917316757?token=ECC4FBC407AFEDBA08FA3E304E6E443E5968E68029A40E2561307ACE51C3C3A85F88EB95E0BB3B3A6E0830634149E72F&originRegion=eu-west-1&originCreation=20211124065911",
         createdAt: new Date(),
         updatedAt: new Date()
       },
@@ -15,7 +15,7 @@ module.exports = {
         title: "Artificial Intelligence trends in education: a narrative overview",
         author: "Maud Chassignol",
         abstract: "Digital technologies have already become an internal part of our life. They change the way we are looking for information ...",
-        content: "https://reader.elsevier.com/reader/sd/pii/S1877050918315382?token=E74FC4DC9D9D8E41BF78723806572CF9F9BF93C71B266E76F5520802D7B37DEF16AAEC60AC50229451CCB5BE1E095B62&originRegion=eu-west-1&originCreation=20210914101642",
+        content: "https://reader.elsevier.com/reader/sd/pii/S1877050918315382?token=45C60FF277A5252DD919E10828A816612CB34ACEEBCAF52739F8C2776A6A7C7F84ACB5C789F40E46CBC425C1414D9140&originRegion=eu-west-1&originCreation=20211124070120",
         createdAt: new Date(),
         updatedAt: new Date()
       },
@@ -23,7 +23,7 @@ module.exports = {
         title: "GO-CAD: Virtual Reality Simulation",
         author: "Tomas Sebo",
         abstract: "GO-CAD brings some novel functions and features to the intelligent building design and virtual reality simulation. This ...",
-        content: "https://reader.elsevier.com/reader/sd/pii/S147466701734716X?token=B7675FB57A2B3A8AE9B5543A089CA1F0871E27DC169A03C5543D4316062E0B92BB8072234387EC1BBA7482BAEBF41FE4&originRegion=eu-west-1&originCreation=20210914101842",
+        content: "https://reader.elsevier.com/reader/sd/pii/S147466701734716X?token=B831CCA8B437BD20CAA33A6AD5FE4FE4B2827D8B9B443D11DC89829CD1CA71441E24099617902EF3AB0C3C997327AF8A&originRegion=eu-west-1&originCreation=20211124070221",
         createdAt: new Date(),
         updatedAt: new Date()  
       },
@@ -31,7 +31,7 @@ module.exports = {
         title: "Literature review on Cyber Physical Systems Design",
         author: "Carolina Villarreal Lozano",
         abstract: "Cyber Physical Systems (CPS) are a disruptive technology currently in trend across many industries consisting of both computational and physical ...",
-        content: "https://reader.elsevier.com/reader/sd/pii/S2351978920310581?token=86136505D51F6B24D825BB6057B7999996FA9E895844493321CF487DFE892AAF2B044FFD48C6551BF4A727D4670EFE5B&originRegion=eu-west-1&originCreation=20210914102104",
+        content: "https://reader.elsevier.com/reader/sd/pii/S2351978920310581?token=FA43027CA51114A35982464E7AB3815A017820F453E0B69C577D239FC85EEF5D2C5D2DCA53AFC1866FFA418F7DFDC8E6&originRegion=eu-west-1&originCreation=20211124070257",
         createdAt: new Date(),
         updatedAt: new Date()  
       },
@@ -39,7 +39,7 @@ module.exports = {
         title: "How can we predict the impact of the social media messages on the value of cryptocurrency? Insights from big data analytics",
         author: "Chahat Tandon",
         abstract: "Cryptocurrency and blockchain are one of the most beautiful digital transformations occurring around the world. They have  ...",
-        content: "https://reader.elsevier.com/reader/sd/pii/S2667096821000288?token=C8275DE33D143D5830F207B249614E7D95E21FA919B5D392BC320370AF3B53056F8B042531298B76BF11FFF45B43DC46&originRegion=eu-west-1&originCreation=20210914102451",
+        content: "https://reader.elsevier.com/reader/sd/pii/S2667096821000288?token=EBBC7847805B389F628A68730748DB4D9BD05A1C5C6D0752CA7DB09213C55D556F91E5DD491F29C349A2024172E1A6E8&originRegion=eu-west-1&originCreation=20211124070338",
         createdAt: new Date(),
         updatedAt: new Date()  
       },
@@ -47,7 +47,7 @@ module.exports = {
         title: "A Learning Approach for On-Line Robotic Assembly Tasks",
         author: "M. Pena",
         abstract: "The acquisition of assembly skills by robots is greatly supported by the efective use of contact force sensing and object recognition vision systems. In this paper, we  ...",
-        content: "https://reader.elsevier.com/reader/sd/pii/S147466701531212X?token=960C98213F5C4927E1EE92E84F352DA9C0162CCBAAB327EE1C1B1C8309B99CB3857A77588377A1EA22B5854C65E8DADC&originRegion=eu-west-1&originCreation=20210914102620",
+        content: "https://reader.elsevier.com/reader/sd/pii/S147466701531212X?token=ED42F0BDF135D1C87DD800764EEAB6039ADABA1C97D3A0123844A2494F01607ECEFA788ABAC09FF1C255F4C5F5ED4C93&originRegion=eu-west-1&originCreation=20211124070433",
         createdAt: new Date(),
         updatedAt: new Date()  
       }

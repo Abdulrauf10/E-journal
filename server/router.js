@@ -1,6 +1,7 @@
 const router = require ('express').Router();
-const {showJournal} = require ("./controllers/journalController");
+const {showJournal, getJournalById} = require ("./controllers/journalController");
 
-router.get('/e-journal', showJournal);
+router.get('/', showJournal);
+router.get('/:id', getJournalById);
 
 module.exports = router;
