@@ -1,23 +1,41 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "Rauf10",
-    "database": "journal",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "username": "mwjtgznsajouqn",
+    "password": "874573abb14f98bb6ae2a8d1231b60d6d798cdddcb5e19e96d721001896dc524",
+    "database": "d6oau0f0ekqnp0",
+    "host": "ec2-34-250-16-127.eu-west-1.compute.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   },
   "test": {
-    "username": "postgres",
-    "password": "Rauf10",
-    "database": "journal",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "username": "hoaiseelarzdpb",
+    "password": "d97440b7b56bd22a0c22b2408c458360c2dd0541af2704c0c11219aecb2364a5",
+    "database": "drnrl33043vqf",
+    "host": "ec2-63-33-14-215.eu-west-1.compute.amazonaws.com",
+    "dialect": "mysql2",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   },
   "production": {
-    "username": "postgres",
-    "password": "Rauf10",
-    "database": "journal",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "username": "hoaiseelarzdpb",
+    "password": "d97440b7b56bd22a0c22b2408c458360c2dd0541af2704c0c11219aecb2364a5",
+    "database": "drnrl33043vqf",
+    "host": "ec2-63-33-14-215.eu-west-1.compute.amazonaws.com",
+    "dialect": "mysql2",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   }
 }
