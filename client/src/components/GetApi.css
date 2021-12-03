@@ -1,0 +1,39 @@
+.container {
+  width: 65%;
+  margin: 0 auto;
+}
+
+.card {
+  border-bottom: 1px solid #9b9b9b;
+  padding-top: 30px;
+}
+
+.title {
+  font-size: 25px;
+}
+
+.author {
+  margin-top: -10px;
+  font-size: 10px;
+}
+
+.abstract {
+  font-size: 15px;
+
+}
+
+.card > a {
+  text-decoration: none;
+  background-color: rgb(45, 45, 219);
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  float: right;
+  margin-top: -40px;
+  font-weight: bold;
+}
+
+.card > a:hover {
+  background-color: rgb(2, 2, 94);
+}
+

@@ -1,0 +1,21 @@
+.header {
+  background-image: url(../images/ricardo-gomez-angel-8XDfQmFImtQ-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 30vh;
+}
+
+.welcoming {
+  max-width: 400px;
+  height: 10vh;
+  background-color: rgba(0,0,0, .5);
+  border-radius: 5px;
+  margin-left: 70px;
+  
+  color: white;
+}
+
+.source {
+  padding-left: 10px;
+  padding-top: 15px;
+}
